@@ -1,0 +1,7 @@
+C:\Users\MAK_HAN\source\repos\Mark Sheet App\bin\Debug\Mark Sheet App.exe.config
+C:\Users\MAK_HAN\source\repos\Mark Sheet App\bin\Debug\Mark Sheet App.exe
+C:\Users\MAK_HAN\source\repos\Mark Sheet App\bin\Debug\Mark Sheet App.pdb
+C:\Users\MAK_HAN\source\repos\Mark Sheet App\obj\Debug\Mark Sheet App.csproj.AssemblyReference.cache
+C:\Users\MAK_HAN\source\repos\Mark Sheet App\obj\Debug\Mark Sheet App.csproj.CoreCompileInputs.cache
+C:\Users\MAK_HAN\source\repos\Mark Sheet App\obj\Debug\Mark Sheet App.exe
+C:\Users\MAK_HAN\source\repos\Mark Sheet App\obj\Debug\Mark Sheet App.pdb
