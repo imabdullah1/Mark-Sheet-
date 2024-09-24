@@ -20,7 +20,7 @@ This is a simple C# console application that allows users to input their persona
 - Indicate subjects with supplies (failures).
 
 
-# View
+#  Result View
 
 Your Name is John Doe <br />
 Your Roll No is 12345 <br />
